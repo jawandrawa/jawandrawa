@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Gostudent as mathematic and physics teacher.
 - 🌱 I’m currently learning coding at 42 Madrid and electronics at UPM.
-- 📫 How to reach me: <a>e-mail</a> or by <a>phone</a>.
 
-## My Stats
-
+## 📫 How to reach me
+- [via e-mail] (tacunanalejandra@gmail.com)
+- [Instagram] (https://instagram.com/jawandrawa)
