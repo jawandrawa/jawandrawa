@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Gostudent as mathematic and physics teacher.
-- 🌱 I’m currently learning coding at 42 Madrid and electronics at UPM.
+- 🔭 I’m currently working on GMV as QA Engineer in the Galileo Project.
+- 🌱 I’ve finished Telecommunications Degree, with a minor in Electronics Systems.
 
 ## 📫 How to reach me
 - [via e-mail] (tacunanalejandra@gmail.com)
-- [Instagram] (https://instagram.com/jawandrawa)
+- [LinkedIn] (https://es.linkedin.com/in/alejandra-tacunan-anchante-694840228)
